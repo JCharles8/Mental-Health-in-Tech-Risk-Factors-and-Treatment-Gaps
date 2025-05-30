@@ -41,17 +41,9 @@ Source: [OSMI Mental Health in Tech Survey (Kaggle)](https://www.kaggle.com/data
 |------|-------------|
 | `01_eda_cleaning.ipynb` | Data cleaning, gender normalization, and EDA |
 | `02_modeling.ipynb` | Predictive modeling to classify treatment behavior |
-| `survey.csv` | Raw dataset (if allowed to include) |
+| `survey.csv` | Raw dataset |
 | `visuals/` | Charts for portfolio or dashboards |
-| `requirements.txt` | Package dependencies |
 | `README.md` | Project summary and explanation |
-
----
-
-## Future Ideas
-- Deploy a Streamlit app to input workplace policies and estimate mental health treatment probability.
-- Build HR dashboards to support mental health outreach and program design.
-- Expand analysis to include longitudinal tracking if future data is available.
 
 ---
 
